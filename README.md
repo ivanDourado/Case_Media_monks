@@ -1,5 +1,8 @@
 # Case_Media_monks
->códigos JS
->Quers SQL
->Arquivo .csv
+
+# códigos JS
+
+# Quers SQL
+
+# Arquivo .csv
 
