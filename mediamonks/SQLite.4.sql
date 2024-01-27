@@ -1,0 +1,1 @@
+SELECT * from tabela_unificada;
