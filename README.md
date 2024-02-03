@@ -1,6 +1,8 @@
 # Case_Media_monks
 
-Case que qapliquei técnicas em javascript, manipulação de arquivos JSON, SQL e Looker Studio. \n
+Case que qapliquei técnicas em javascript, manipulação de arquivos JSON, SQL e Looker Studio. 
+
+
 Descrição detalhada no pdf no final desta seção.
 
 
